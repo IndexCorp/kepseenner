@@ -1,0 +1,105 @@
+{
+  "version": 5,
+  "updated_at": "2026-09-11T16:20:37Z",
+  "stories": [
+    {
+      "id": "oruosteeh-oloruohsuttara",
+      "title": "Өрүөстээх Өлөрүөхсүттэрэ",
+      "author": "Данил Макеев",
+      "genre": "Түбэлтэ",
+      "category": "Түбэлтэ",
+      "file": "stories/oruosteeh-oloruohsuttara.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    },
+    {
+      "id": "uchuutal-alyptaah-kepseene",
+      "title": "Учуутал алыптаах кэпсээнэ",
+      "author": "Максим Ксенофонтов",
+      "genre": "Олох-дьаһах",
+      "category": "Олох-дьаһах",
+      "file": "stories/uchuutal-alyptaah-kepseene.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    },
+    {
+      "id": "uchuutal-kepseene",
+      "title": "Учуутал кэпсээнэ",
+      "author": "Бутукай",
+      "genre": "Олох-дьаһах",
+      "category": "Олох-дьаһах",
+      "file": "stories/uchuutal-kepseene.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    },
+    {
+      "id": "tuunngu-djon",
+      "title": "Түүҥҥү дьон",
+      "author": "Акулина Егорова",
+      "genre": "Абааһы",
+      "category": "Абааһы",
+      "file": "stories/tuunngu-djon.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    },
+    {
+      "id": "aatyryahhyn-aatyrar-ebikkin",
+      "title": "Аатырыаххын аатырар эбиккин",
+      "author": "Владислав Березкин",
+      "genre": "Абааһы",
+      "category": "Абааһы",
+      "file": "stories/aatyryahhyn-aatyrar-ebikkin.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    },
+    {
+      "id": "mohsogol",
+      "title": "Мохсоҕол",
+      "author": "Николай Соловьев",
+      "genre": "Абааһы",
+      "category": "Абааһы",
+      "file": "stories/mohsogol.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    },
+    {
+      "id": "boohuchche",
+      "title": "Бөөхүччэ",
+      "author": "Виктор Семенов",
+      "genre": "Абааһы",
+      "category": "Абааһы",
+      "file": "stories/boohuchche.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    },
+    {
+      "id": "salgyn-haartyskata",
+      "title": "Салгын хаартыската",
+      "author": "Алексей Яковлев",
+      "genre": "Түбэлтэ",
+      "category": "Түбэлтэ",
+      "file": "stories/salgyn-haartyskata.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    },
+    {
+      "id": "ubayym-yngyrar",
+      "title": "Убайым ыҥырар",
+      "author": "Алена Александрова",
+      "genre": "Таҥха",
+      "category": "Таҥха",
+      "file": "stories/ubayym-yngyrar.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    },
+    {
+      "id": "bu-eyiene",
+      "title": "Бу эйиэнэ",
+      "author": "Камелия Гаврильева",
+      "genre": "Түбэлтэ",
+      "category": "Түбэлтэ",
+      "file": "stories/bu-eyiene.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    },
+    {
+      "id": "sieri-kestehhe",
+      "title": "Сиэри кэстэххэ...",
+      "author": "Сарыал Колодезников",
+      "genre": "Түбэлтэ",
+      "category": "Түбэлтэ",
+      "file": "stories/sieri-kestehhe.md",
+      "updated_at": "2026-09-11T16:20:37Z"
+    }
+  ]
+}

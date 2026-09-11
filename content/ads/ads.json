@@ -1,0 +1,18 @@
+{
+  "contact_link": "https://max.ru/u/f9LHodD0cOLa3f6_X_Chu4yRq9B0cGQYdOJZ_rFPywkcmM-P_GmMbLFqyIc",
+  "banner": {
+    "enabled": true,
+    "image": "ads/kepsee.jpg",
+    "label": "",
+    "text": "Убаастабылаах кэпсээн аа5ааччы, өскөтүн бэйэн кэпсээннин дьон биьирэбилигэр бу приложенияҕа таьаарыаххын баҕарар буоллаххына биьиэхэ суруйуоххутун сеп. Бу баннеры баттаа, MAX мессенджерга суруйун.",
+    "link": "https://max.ru/u/f9LHodD0cOLa3f6_X_Chu4yRq9B0cGQYdOJZ_rFPywkcmM-P_GmMbLFqyIc"
+  },
+  "modal": {
+    "enabled": false,
+    "image": "ads/modal-demo.jpg",
+    "label": "реклама",
+    "text": "ИП ФАМИЛИЯ И.О. ИНН 123456789 erid:123456789",
+    "link": "https://example.com/subscribe",
+    "show_every_launch": true
+  }
+}
